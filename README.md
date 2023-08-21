@@ -7,12 +7,29 @@
 
 PT-BR
 
-  Experiência de 6 anos exercendo atividades de Suporte, tais como, montagem e manutenção de computadores e redes, realização de backups em servidores e sistemas com banco de dados em PostgreeSQL, suporte ao usuário. Formado em Sistemas de Informação pela Universidade Estácio de Sá - Campus Cabo Frio, Atualmente trabalhando na Prolagos S.A. no setor de Planejamento e Controle, na função de Analista de Planejamento e Controle Jr, atuando no desenvolvimento de RPA's, e desenvolvimento de Sistemas  em Java e APIS/Rest com Spring. 
+ Experiência de 6 anos exercendo atividades de Suporte, tais como, montagem e manutenção de computadores e redes,
+realização de backups em servidores e sistemas com banco de dados em PostgreeSQL, suporte ao usuário. Formado em
+Sistemas de Informação pela Universidade Estácio de Sá - Campus Cabo Frio, Recentemente trabalhei na TOTVS S.A no
+time do Fluig-IDentity, na função de desenvolvedor Backend, atuando em análise, desenvolvimento e manutenção de
+soluções de IAM (Identity and Access Management).
+- Desenvolvimento em Bancos de Dados relacionais: Mysql e SQLite
+- Desenvolvimento em Bancos de Dados nosql: Couchbase e Elasticsearch
+- Desenvolvimento Banckend: Java.
+- Docker e Testes Unitarios.
 
 ENGLISH
 
-  Experience of 6 years performing support activities, such as assembly and maintenance of computers and networks, performing backups on servers and systems with database in PostgreeSQL, user support. Graduated in Information Systems from Estácio de Sá University - Cabo Frio Campus, Currently working at Prolagos S.A. in the Planning and Control sector, in the role of Planning and Control Analyst Jr, working in the development of RPA's, and development of Systems in Java and APIS /Rest with Spring. 
+ 6 years of experience performing Support activities, such as assembly and maintenance of computers and networks,
+performing backups on servers and systems with databases in PostgreeSQL, user support. Graduated in
+Information Systems from Estácio de Sá University - Campus Cabo Frio, I recently worked at TOTVS S.A in
+Fluig-IDentity team, as Backend developer, working on analysis, development and maintenance of
+IAM (Identity and Access Management) solutions.
+- Development in relational databases: Mysql and SQLite
+- Development in nosql databases: Couchbase and Elasticsearch
+- Bankend development: Java.
+- Docker and Unit Testing.
 
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/meellogabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meellogabriel" height="30" width="40" /></a>

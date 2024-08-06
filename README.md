@@ -7,27 +7,29 @@
 
 PT-BR
 
- Experiência de 6 anos exercendo atividades de Suporte, tais como, montagem e manutenção de computadores e redes,
-realização de backups em servidores e sistemas com banco de dados em PostgreeSQL, suporte ao usuário. Formado em
-Sistemas de Informação pela Universidade Estácio de Sá - Campus Cabo Frio, Recentemente trabalhei na TOTVS S.A no
-time do Fluig-IDentity, na função de desenvolvedor Backend, atuando em análise, desenvolvimento e manutenção de
-soluções de IAM (Identity and Access Management).
-- Desenvolvimento em Bancos de Dados relacionais: Mysql e SQLite
-- Desenvolvimento em Bancos de Dados nosql: Couchbase e Elasticsearch
-- Desenvolvimento Banckend: Java.
-- Docker e Testes Unitarios.
+Mais de 9 anos na Área de TI. Atuando nos procedimentos, organização, 
+planejamento e execução dos processos pertinentes. 
+Criação e manutenção de aplicações de software, escrita de código limpo e uso de 
+boas práticas, como S.O.L.I.D e Clean Code. 
+Colaboração com equipes multidisciplinares para alcançar metas de projeto e 
+assegurar a entrega de produtos com excelência. 
+Vivência em Suporte Técnico, realizando atendimento presencial e remoto a 
+usuários, diagnóstico de problemas e manutenção em hardware, software e redes 
+de computadores. 
+Expertise em Desenvolvimento de Software, abrangendo a criação de soluções 
+robustas e escaláveis. 
+Especialista em Java, incluindo a implementação de sistemas com uso de 
+bibliotecas e frameworks como Spring e Hibernate, com a aplicação de design 
+patterns. 
+Habilidade na Realização de Testes Unitários e Versionamento de Código, para 
+garantir a qualidade do software e a integridade das versões. 
+Utilização das tecnologias: Elasticsearch, CouchBase, RabbitMQ, AWS, Selenium, 
+Angular, SQLServer, SQLite, MySQL, Sikuli.
 
 ENGLISH
 
- 6 years of experience performing Support activities, such as assembly and maintenance of computers and networks,
-performing backups on servers and systems with databases in PostgreeSQL, user support. Graduated in
-Information Systems from Estácio de Sá University - Campus Cabo Frio, I recently worked at TOTVS S.A in
-Fluig-IDentity team, as Backend developer, working on analysis, development and maintenance of
-IAM (Identity and Access Management) solutions.
-- Development in relational databases: Mysql and SQLite
-- Development in nosql databases: Couchbase and Elasticsearch
-- Bankend development: Java.
-- Docker and Unit Testing.
+ Over 9 years in the IT area. Working in procedures, organization, planning and execution of relevant processes. Creation and maintenance of software applications, writing clean code and using best practices, such as S.O.L.I.D and Clean Code. Collaboration with multidisciplinary teams to achieve project goals and ensure the delivery of excellent products. Experience in Technical Support, providing in-person and remote assistance to users, diagnosing problems and maintaining hardware, software and computer networks. Expertise in Software Development, including the creation of robust and scalable solutions. Expertise in Java, including the implementation of systems using libraries and frameworks such as Spring and Hibernate, with the application of design patterns. Ability to perform Unit Testing and Code Versioning, to ensure software quality and version integrity. Use of technologies: Elasticsearch, CouchBase, RabbitMQ, AWS, Selenium,
+Angular, SQLServer, SQLite, MySQL, Sikuli.
 
 - 
 <h3 align="left">Connect with me:</h3>
